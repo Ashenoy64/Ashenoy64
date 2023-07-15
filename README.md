@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Avanish Shne</h1>
+<h1 align="center">Hi 👋, I'm Avanish Shenoy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+
+ <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=ashenoy64&column=7&theme=nord&no-frame=true"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashenoy64" alt="ashenoy64" /></a> </p>
 
 - 📫 How to reach me **ashenoy64@gmail.com**
