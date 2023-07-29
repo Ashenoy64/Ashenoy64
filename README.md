@@ -24,3 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashenoy64&" alt="ashenoy64" /></p>
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Ashenoy64.visitor-badge)
+<img width="200px" src="https://komarev.com/ghpvc/?username=Ashenoy64&&style=for-the-badge" align="center" />
