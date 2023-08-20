@@ -1,27 +1,60 @@
-<h1 align="center">Hi 👋, I'm Avanish Shenoy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there, I'm Avanish Shenoy! 👋
+
+Welcome to my GitHub profile! I'm an enthusiast in the world of technology, constantly learning and building exciting projects. Feel free to explore my repositories and connect with me.
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avanish_shenoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashenoy64) 
+[![CodeChef](https://www.codechef.com/users/meowmaster)]
+[![HackerRank](https://www.hackerrank.com/ashenoy64)]
+[![Leetcode]([https://www.hackerrank.com/ashenoy64](https://www.leetcode.com/ashenoy64))]
 
 
- <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=ashenoy64&column=7&theme=nord&no-frame=true"/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashenoy64" alt="ashenoy64" /></a> </p>
+## 💻 Tech Stack:
 
-- 📫 How to reach me **ashenoy64@gmail.com**
+### Database & Cloud
+| ![Supabase](https://skillicons.dev/icons?i=supabase&theme=light) | ![Postgres](https://skillicons.dev/icons?i=postgresql&theme=light) | ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light) | ![Firebase](https://skillicons.dev/icons?i=firebase&theme=light) | ![AWS](https://skillicons.dev/icons?i=aws&theme=light) |
+|---|---|---|---|---|
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashenoy64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashenoy64" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/meowmaster" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="meowmaster" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ashenoy64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashenoy64" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashenoy64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashenoy64" height="30" width="40" /></a>
-</p>
+### Development Tools
+| ![VScode](https://skillicons.dev/icons?i=vscode&theme=light) | ![Postman](https://skillicons.dev/icons?i=postman&theme=light) | ![Vscode](https://skillicons.dev/icons?i=visualstudio&theme=light) | ![Git](https://skillicons.dev/icons?i=git&theme=light) | ![Docker](https://skillicons.dev/icons?i=docker&theme=light) |
+|---|---|---|---|---|
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### Programming Languages
+| ![JavaScript](https://skillicons.dev/icons?i=javascript&theme=light) | ![Python](https://skillicons.dev/icons?i=python&theme=light) | ![C++](https://skillicons.dev/icons?i=cpp&theme=light) | ![C](https://skillicons.dev/icons?i=c&theme=light) |
+|---|---|---|---|
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashenoy64&show_icons=true&locale=en&layout=compact" alt="ashenoy64" /></p>
+### Web Development
+| ![HTML](https://skillicons.dev/icons?i=html&theme=light) | ![CSS](https://skillicons.dev/icons?i=css&theme=light) | ![React](https://skillicons.dev/icons?i=react&theme=light) | ![Nextjs](https://skillicons.dev/icons?i=nextjs&theme=light) | ![Nodejs](https://skillicons.dev/icons?i=nodejs&theme=light) | ![Expressjs](https://skillicons.dev/icons?i=express&theme=light) | ![Django](https://skillicons.dev/icons?i=django&theme=light) | ![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss&theme=light) | ![Three.js](https://skillicons.dev/icons?i=threejs&theme=light) |![Vercel](https://skillicons.dev/icons?i=vercel&theme=light) |
+|---|---|---|---|---|---|---|---|---|---|
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashenoy64&show_icons=true&locale=en" alt="ashenoy64" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashenoy64&" alt="ashenoy64" /></p>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Ashenoy64.visitor-badge)
-<img width="200px" src="https://komarev.com/ghpvc/?username=Ashenoy64&&style=for-the-badge" align="center" />
+
+
+### Game Development 
+| ![UNREAL](https://skillicons.dev/icons?i=unreal&theme=light) | ![UNITY](https://skillicons.dev/icons?i=unity&theme=light) | ![Blender](https://skillicons.dev/icons?i=blender&theme=light) |
+|---|---|---|
+
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ashenoy64&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ashenoy64&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashenoy64&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ashenoy64&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+![](https://komarev.com/ghpvc/?username=Ashenoy64&&style=for-the-badge)
+
+
+
+
+
+
+
+
+
+
