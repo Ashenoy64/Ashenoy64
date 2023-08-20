@@ -12,26 +12,26 @@ Welcome to my GitHub profile! I'm an enthusiast in the world of technology, cons
 ## 💻 Tech Stack:
 
 ### Database & Cloud
-| ![Supabase](https://skillicons.dev/icons?i=supabase&theme=light) | ![Postgres](https://skillicons.dev/icons?i=postgresql&theme=light) | ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light) | ![Firebase](https://skillicons.dev/icons?i=firebase&theme=light) | ![AWS](https://skillicons.dev/icons?i=aws&theme=light) |
+| ![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark) | ![Postgres](https://skillicons.dev/icons?i=postgresql&theme=dark) | ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark) | ![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark) | ![AWS](https://skillicons.dev/icons?i=aws&theme=dark) |
 |---|---|---|---|---|
 
 ### Development Tools
-| ![VScode](https://skillicons.dev/icons?i=vscode&theme=light) | ![Postman](https://skillicons.dev/icons?i=postman&theme=light) | ![Vscode](https://skillicons.dev/icons?i=visualstudio&theme=light) | ![Git](https://skillicons.dev/icons?i=git&theme=light) | ![Docker](https://skillicons.dev/icons?i=docker&theme=light) |
+| ![VScode](https://skillicons.dev/icons?i=vscode&theme=dark) | ![Postman](https://skillicons.dev/icons?i=postman&theme=dark) | ![Vscode](https://skillicons.dev/icons?i=visualstudio&theme=dark) | ![Git](https://skillicons.dev/icons?i=git&theme=dark) | ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) |
 |---|---|---|---|---|
 
 ### Programming Languages
-| ![JavaScript](https://skillicons.dev/icons?i=javascript&theme=light) | ![Python](https://skillicons.dev/icons?i=python&theme=light) | ![C++](https://skillicons.dev/icons?i=cpp&theme=light) | ![C](https://skillicons.dev/icons?i=c&theme=light) |
+| ![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark) | ![Python](https://skillicons.dev/icons?i=python&theme=dark) | ![C++](https://skillicons.dev/icons?i=cpp&theme=dark) | ![C](https://skillicons.dev/icons?i=c&theme=dark) |
 |---|---|---|---|
 
 ### Web Development
-| ![HTML](https://skillicons.dev/icons?i=html&theme=light) | ![CSS](https://skillicons.dev/icons?i=css&theme=light) | ![React](https://skillicons.dev/icons?i=react&theme=light) | ![Nextjs](https://skillicons.dev/icons?i=nextjs&theme=light) | ![Nodejs](https://skillicons.dev/icons?i=nodejs&theme=light) | ![Expressjs](https://skillicons.dev/icons?i=express&theme=light) | ![Django](https://skillicons.dev/icons?i=django&theme=light) | ![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss&theme=light) | ![Three.js](https://skillicons.dev/icons?i=threejs&theme=light) |![Vercel](https://skillicons.dev/icons?i=vercel&theme=light) |
+| ![HTML](https://skillicons.dev/icons?i=html&theme=dark) | ![CSS](https://skillicons.dev/icons?i=css&theme=dark) | ![React](https://skillicons.dev/icons?i=react&theme=dark) | ![Nextjs](https://skillicons.dev/icons?i=nextjs&theme=dark) | ![Nodejs](https://skillicons.dev/icons?i=nodejs&theme=dark) | ![Expressjs](https://skillicons.dev/icons?i=express&theme=dark) | ![Django](https://skillicons.dev/icons?i=django&theme=dark) | ![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss&theme=dark) | ![Three.js](https://skillicons.dev/icons?i=threejs&theme=dark) |![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark) |
 |---|---|---|---|---|---|---|---|---|---|
 
 
 
 
 ### Game Development 
-| ![UNREAL](https://skillicons.dev/icons?i=unreal&theme=light) | ![UNITY](https://skillicons.dev/icons?i=unity&theme=light) | ![Blender](https://skillicons.dev/icons?i=blender&theme=light) |
+| ![UNREAL](https://skillicons.dev/icons?i=unreal&theme=dark) | ![UNITY](https://skillicons.dev/icons?i=unity&theme=dark) | ![Blender](https://skillicons.dev/icons?i=blender&theme=dark) |
 |---|---|---|
 
 
