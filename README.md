@@ -1,12 +1,14 @@
 # Hi there, I'm Avanish Shenoy! 👋
 
-Welcome to my GitHub profile! I'm an enthusiast in the world of technology, constantly learning and building exciting projects. Feel free to explore my repositories and connect with me.
+Welcome to my GitHub profile. Here's a glimpse of my tech journey:
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avanish_shenoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashenoy64) 
-[![CodeChef](https://www.codechef.com/users/meowmaster)]
-[![HackerRank](https://www.hackerrank.com/ashenoy64)]
-[![Leetcode]([https://www.hackerrank.com/ashenoy64](https://www.leetcode.com/ashenoy64))]
+🕹️ **Game Dev & Web Dev:** Crafting immersive experiences through Game Development and Web Development.
+
+🚀 **Curious Learner:** Constantly diving into new technologies and crafting exciting projects.
+
+🔮 **Immersive Realms:** Currently exploring the captivating worlds of virtual and augmented reality, creating experiences that transport users to new dimensions.
+
+⚙️ **Tech Exploration:** Venturing into DevOps and AI/ML domains, uncovering the potential they hold for innovation.
 
 
 ## 💻 Tech Stack:
@@ -46,6 +48,13 @@ Welcome to my GitHub profile! I'm an enthusiast in the world of technology, cons
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/avanish_shenoy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashenoy64) 
+[![CodeChef](	https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/meowmaster)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/ashenoy64)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/ashenoy64/)
 ---
 ![](https://komarev.com/ghpvc/?username=Ashenoy64&&style=for-the-badge)
 
