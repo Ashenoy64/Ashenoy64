@@ -38,7 +38,7 @@ Welcome to my GitHub profile. Here's a glimpse of my tech journey:
 
 
 ## 📊 GitHub Stats:
-<p align="center">
+<p align="center" style="text-decoration: none !important;color:none;">
  <a href="https://github-readme-stats.vercel.app/api?username=Ashenoy64&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
     <img src="https://github-readme-stats.vercel.app/api?username=Ashenoy64&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
  </a>
@@ -61,13 +61,28 @@ Welcome to my GitHub profile. Here's a glimpse of my tech journey:
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/avanish_shenoy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashenoy64) 
-[![CodeChef](	https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/meowmaster)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/ashenoy64)
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/ashenoy64/)
----
-![](https://komarev.com/ghpvc/?username=Ashenoy64&&style=for-the-badge)
+<p align="center" style="text-decoration: none !important;color:none;">
+  <a href="https://instagram.com/avanish_shenoy">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+ </a>
+ <a href="ttps://linkedin.com/in/ashenoy64">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+ </a>
+ <a href="https://www.codechef.com/users/meowmaster">
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
+ </a>
+ <a href="https://www.hackerrank.com/ashenoy64">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" alt="Hackerrank" />
+ </a>
+ <a href="https://leetcode.com/ashenoy64/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode" />
+ </a>
+ </p>
+<hr>
+<p align="center" >
+ <img alt="views" src="https://komarev.com/ghpvc/?username=Ashenoy64&&style=for-the-badge" />
+</p>
+
 
 
 
