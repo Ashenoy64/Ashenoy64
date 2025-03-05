@@ -1,14 +1,14 @@
 # Hi there, I'm Avanish Shenoy! 👋
 
-Welcome to my GitHub profile. Here's a glimpse of my tech journey:
+**Welcome to my GitHub profile! Here's a glimpse into my tech journey:**  
 
-🕹️ **Game Dev & Web Dev:** Crafting immersive experiences through Game Development and Web Development.
+🕹️ **Game & Web Development:** I enjoy building games and web applications, bringing ideas to life through code.  
 
-🚀 **Curious Learner:** Constantly diving into new technologies and crafting exciting projects.
+💡 **Exploring Systems:** Fascinated by system design, distributed computing, and how different technologies come together to create efficient and scalable solutions.  
 
-🔮 **Immersive Realms:** Currently exploring the captivating worlds of virtual and augmented reality, creating experiences that transport users to new dimensions.
+🛠️ **Programming Enthusiast:** Coding is my tool for solving problems, experimenting with ideas, and understanding how things work under the hood.  
 
-⚙️ **Tech Exploration:** Venturing into DevOps and AI/ML domains, uncovering the potential they hold for innovation.
+🚀 **Always Learning:** Constantly diving into new technologies, refining my skills, and taking on interesting challenges.
 
 
 ## 💻 Tech Stack:
