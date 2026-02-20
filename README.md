@@ -39,21 +39,21 @@
 
 ## 📊 GitHub Stats:
 <p align="center" style="text-decoration: none !important;color:none;">
- <a href="https://github-readme-stats.vercel.app/api?username=Ashenoy64&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ashenoy64&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+ <a href="https://github-stats-extended.vercel.app/api?username=Ashenoy64&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+    <img src="https://github-stats-extended.vercel.app/api?username=Ashenoy64&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
  </a>
  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Ashenoy64&theme=dark&hide_border=false">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashenoy64&theme=dark&hide_border=false" alt="GitHub Streaks" />
  </a>
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashenoy64&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashenoy64&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+ <a href="https://github-stats-extended.vercel.app/api/top-langs/?username=Ashenoy64&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ashenoy64&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
  </a>
 </p>
 
 
 
 ## 🏆 Trophies & Badges
-![](https://github-profile-trophy.vercel.app/?username=Ashenoy64&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy-tawny.vercel.app/?username=Ashenoy64&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <br>
 [![An image of @ashenoy64's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/@ashenoy64)](https://holopin.io/@ashenoy64#)
 ### ✍️ Random Dev Quote
