@@ -65,7 +65,7 @@
   <a href="https://instagram.com/avanish_shenoy">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
  </a>
- <a href="ttps://linkedin.com/in/ashenoy64">
+ <a href="https://linkedin.com/in/ashenoy64">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
  </a>
  <a href="https://www.codechef.com/users/meowmaster">
